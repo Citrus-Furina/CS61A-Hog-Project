@@ -1,6 +1,6 @@
 # Project 1: The Game of Hog
 
-
+The most part of this assignment is done already by TA. I just complete all problems there. This is just to commemorate my first CS61A project. 
 
 > Adapted from cs61a of UC Berkeley.
 
